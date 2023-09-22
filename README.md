@@ -2,17 +2,18 @@
 
 ## **Qui suis-je :**    
 
-    Hello, moi c'est Cédric. En général, mes proches m'appellent Céd. Comme nous allons passer quelques mois ensemble, vous pouvez m'appeller Céd ou Cédric comme vous voulez.  
+Hello, moi c'est Cédric. En général, mes proches m'appellent Céd. Comme nous allons passer quelques mois ensemble, vous pouvez m'appeller Céd ou Cédric comme vous voulez.  
 Je suis un peu timide au début. Mais je m'ouvre au fil du temps. Disons que j'ai d'abord besoin d'observer mon environnement pour me sentir à l'aise.  
 Dans ma vie, je suis quelqu'un de plutot solitaire, mais j'aime aller travailler ou me former pour discuter, partager et rencontrer des gens...
 
-    J'ai decidé de m'inscrir à BeCode, car depuis deja lorsque j'étais ado (oui je sais, ca date) je voulais apprendre à coder. La vie à fais que j'ai pris d'autres chemin.
+J'ai decidé de m'inscrir à BeCode, car depuis deja lorsque j'étais ado (oui je sais, ca date) je voulais apprendre à coder. La vie à fais que j'ai pris d'autres chemin.
 Lors de mes précédentes expérience professionnelles, j'étais frustré, car je concevais des installations audiovisuel et je devais appeller un entreprise pour coder mes idées.
 Ayant envie de faire évoluer ma carrière dans ce sens, j'ai franchis le pas et me voila parmi-vous. 
  
-    J'aimerais me spécialiser dans la conception d'apps orienté vers la technique audiovisuel afin de faciliter l'utilisation de la technologie pour l'utilisateur final. 
-Je voudrais également réaliser des interfaces techniques permettant une configuration plus simple des différentes machines via une seule interface afin d'optimiser et faciliter le travail des techniciens. 
-Faire du travail sur mesure en fonction des différents besoins des clients.
+J'aimerais me spécialiser dans la conception d'apps orienté vers la technique audiovisuel afin de faciliter l'utilisation de la technologie pour l'utilisateur final.   
+Je voudrais également réaliser des interfaces techniques permettant une configuration plus simple des différentes machines via une seule interface afin d'optimiser et faciliter le travail des techniciens   
+Faire du travail sur mesure en fonction des différents besoins des clients.  
+
 ---
 
 ## **Mes compétences surprenantes :**  
